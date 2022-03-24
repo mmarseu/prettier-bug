@@ -1,0 +1,12 @@
+{
+  "name": "prettier-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Moritz Marseu",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.18.3",
+    "prettier": "^2.5.1"
+  }
+}
